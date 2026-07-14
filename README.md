@@ -12,6 +12,8 @@ Aspiring cybersecurity professional, currently a Cyber Threat Analyst at a finan
 - **Automation:** n8n (automated malicious file detection pipeline)
 - **Frameworks:** MITRE ATT&CK, NIST Incident Response lifecycle
 - **Offensive fundamentals (for better defense):** HTB / Proving Grounds machines
+- **Certifications in progress:** OSCP, GCIH
+
 ---
 
 ## 🏠 Homelab
@@ -21,7 +23,7 @@ My personal lab where I build and test detection capability end-to-end.
 **[Wazuh SIEM + n8n Automated Malicious File Detection](./homelab/wazuh-siem-setup)**
 A self-hosted SIEM pipeline that ingests [log sources], correlates [X], and automatically flags suspicious file behavior via an n8n workflow.
 
-> Architecture diagram: *(add a simple draw.io / excalidraw image here — visuals get noticed)*
+> Architecture diagram: *(add diagram here)*
 
 ---
 
@@ -32,26 +34,6 @@ Writeups from retired HTB machines and Proving Grounds boxes, documenting my pro
 | Machine | Platform | Difficulty | Key Technique | Writeup |
 |---|---|---|---|---|
 | Pelican | Proving Grounds | Medium | [e.g. Kernel privesc] | [link](./writeups/proving-grounds/Pelican) |
-
-*(Add rows as you publish more — keep this table as the index)*
-
----
-
-## 📚 SOC Learnings & Notes
-
-Generalized concepts and notes from my SOC role and independent study
-
-- [Detection Engineering Notes](./soc-learnings/detection-engineering-notes.md)
-- [Splunk SPL Cheatsheet](./soc-learnings/splunk-spl-cheatsheet.md)
-- [Incident Response Framework Notes](./soc-learnings/incident-response-frameworks.md)
-
----
-
-## 🗂️ Case Log Template
-
-A structured template I use to document incidents I investigate, focused on decision-making and reasoning rather than just outcomes.
-
-[View template](./case-log-templates/soc_case_log_template.md)
 
 ---
 
