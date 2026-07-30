@@ -33,7 +33,7 @@ Writeups from retired HTB machines and Proving Grounds boxes, documenting my pro
 
 | Machine | Platform | Difficulty | Key Technique | Writeup |
 |---|---|---|---|---|
-| Pelican | Proving Grounds | Medium | [e.g. Kernel privesc] | [link](./writeups/proving-grounds/Pelican) |
+| Pelican | Proving Grounds | Medium | [e.g. Kernel privesc] | [link](./writeups/proving-grounds/pelican.md) |
 
 ---
 
