@@ -75,6 +75,8 @@ Running: Linux 5.X, MikroTik RouterOS 7.X
 - Web app on port 8080 reveals Exhibitor for ZooKeeper
 - Google search for exploits lands on [Exihibitor-RCE](https://github.com/thehunt1s0n/Exihibitor-RCE)
 
+<img width="671" height="379" alt="Pelican (Exhibitor page)" src="https://github.com/user-attachments/assets/46e6e106-0439-4ff0-93af-cec7395f6f5d" />
+
 
 ---
 
